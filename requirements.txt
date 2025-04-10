@@ -1,0 +1,7 @@
+transformers==4.38.2
+torch==2.2.2
+yfinance==0.2.38
+nltk==3.8.1
+scikit-learn==1.4.1.post1
+pandas==2.2.1
+requests==2.31.0
